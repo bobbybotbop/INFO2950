@@ -6,9 +6,13 @@ This INFO 2950 project analyzes sales and inventory data from a family business.
 
 - William Chen
 - May Wu
-- Clement Roze
+- Clément Rozé
 - Joshua Chen
   
+## Family business
+
+The link is here: https://angelawilliam.com/
+
 ## Datasets
 
 1. **Sales transactions:** Individual sales, including the date, product, quantity, price, and payment method.
