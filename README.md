@@ -16,7 +16,7 @@ The link is here: https://angelawilliam.com/
 ## Datasets
 
 1. **Sales transactions:** Individual sales, including the date, product, quantity, price, and payment method.
-2. **Inventory purchases:** Supplier restocks, including the date, product, quantity, unit cost, and supplier.
+2. **Weather data across the US:** Coming from NOAA government agency
 3. **Product information:** Product details such as color, material, hat style, size, and listed price.
 
 ## Data Availability
@@ -27,13 +27,18 @@ Because the project uses a single private business dataset, there are no public 
 ## Data Trustworthiness
 The data was collected through the accounting software used by the family business. The same software and data-recording process were used throughout the period covered by the dataset, which provides consistency across the records.
 
+The other source of data comes from the NOAA (National Oceanic and Atmospheric Administration), which is trustworthy since it is a national government agency. 
+
 Why we trust the data:
 - The data comes directly from the business's accounting system rather than being manually compiled for this project.
 - The same collection process was used over many years.
 - The dataset contains records dating back to the early 2000s, providing a substantial historical record.
 
+
+
 ## Limitations
 - Product descriptions, particularly colors, are not always standardized. For example, similar straw colors may be recorded as "raffia," "natural," or "beige," and some entries may contain spelling variations.
 - The data consists of transaction records rather than pre-processed popularity measures. Therefore, we will need to process and aggregate the transactions ourselves to determine measures such as item popularity or sales trends.
+
 
 <img width="680" height="573" alt="image" src="https://github.com/user-attachments/assets/245ae870-eeec-4ed3-b00a-312714e04b01" />
