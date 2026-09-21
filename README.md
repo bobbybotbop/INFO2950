@@ -4,10 +4,10 @@ This INFO 2950 project analyzes sales and inventory data from a family business.
 
 ## Group Members
 
-- William Chen
-- May Wu
-- Clément Rozé
-- Joshua Chen
+- William Chen wc724
+- May Wu zw757
+- Clément Rozé cpr58
+- Joshua Chen jc3852
   
 ## Family business
 
